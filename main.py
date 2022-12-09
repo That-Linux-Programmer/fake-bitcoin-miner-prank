@@ -1,4 +1,4 @@
-#Made by That-Linux-Programmer aka Nitro Live on Github.
+#Made by That-Linux-Programmer aka Nitro Live on GitHub.
 import string
 import random
 import time
